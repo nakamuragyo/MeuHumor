@@ -1,0 +1,15 @@
+{
+  "id": "./",
+  "name": "Entre abas — mapa das oscilações",
+  "short_name": "Entre abas",
+  "description": "Um espaço privado para observar seu dia e organizar as abas da cabeça.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f6f1",
+  "theme_color": "#f7f6f1",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
